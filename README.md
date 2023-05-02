@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./image_processing20210510-2700-1oal4i5.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://vivekpradhan.vercel.app/)**
 
