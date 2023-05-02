@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://vivekpradhan-portfolio.netlify.app/" target="_blank"> Vivek Pradhan </a></h1>
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;Backend+Developer;UI%2FUX+Designer;Native+Developer" alt="Typing SVG" /></a> </h3>
 
-## 👨🏻‍💻 About Me:
+<div align="center"><img  src="./image_processing20210510-2700-1oal4i5.gif" height="290px" /></div>
 
-<img  src="./image_processing20210510-2700-1oal4i5.gif" height="290px" align="center" />
+## 👨🏻‍💻 About Me:
 
 - 🙋‍♂️ All about me is at **[My Website](https://vivekpradhan.vercel.app/)**
 
