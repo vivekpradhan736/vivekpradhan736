@@ -20,3 +20,10 @@
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpradhan736&theme=dark" alt="vivekpradhan736" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpradhan736&show_icons=true&theme=dark&locale=en&layout=compact" alt="vivekpradhan736" /></td>
+  </tr>
+</table>
