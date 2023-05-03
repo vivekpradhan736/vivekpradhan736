@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
-  <tr>
+ <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpradhan736&theme=dark" alt="vivekpradhan736" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpradhan736&show_icons=true&theme=dark&locale=en&layout=compact" alt="vivekpradhan736" /></td>
-  </tr>
+ </tr>
