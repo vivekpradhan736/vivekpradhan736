@@ -19,7 +19,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I waste most of my time watching Web Series:
 
  <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpradhan736&theme=dark" alt="vivekpradhan736" /></td>
