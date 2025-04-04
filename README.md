@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 About Me:
 <img  src="./image_processing20210510-2700-1oal4i5.gif" height="250px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://vivekpradhan.tech/)**
+- 🙋‍♂️ All about me is at **[My Website](https://vivek-pradhan.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
